@@ -3,7 +3,6 @@ public class Staff {
 	
 	private String name,id;
 	private char gender;
-	private int age;
 	private float height,weight;
 	public Staff(String name1,String id1){
 		name = name1;
